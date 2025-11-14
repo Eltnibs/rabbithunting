@@ -1,4 +1,3 @@
-# rabbithunting[README.md](https://github.com/user-attachments/files/23541595/README.md)
 # rabbithunting-GamePhysics
 # MMU Game Physics Project 1 (PhaserJS)
 
